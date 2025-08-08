@@ -32,7 +32,7 @@
   <main class="wrap" role="main">
     <header>
       <h1>Privacy Policy</h1>
-      <div class="meta">Last updated: <strong>[DATE]</strong></div>
+      <div class="meta">Last updated: <strong>August 2025</strong></div>
     </header>
 
     <p class="small">ClosetMatch (“we,” “our,” or “us”) respects your privacy. This policy explains how we collect, use, and protect information when you use our service.</p>
