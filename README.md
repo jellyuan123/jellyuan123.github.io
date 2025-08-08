@@ -92,7 +92,7 @@
 
     <section>
       <h2>7. Contact</h2>
-      <p>If you have questions about this Privacy Policy or how we handle your data, email us at: <a href="mailto:support@closetmatch.app">support@closetmatch.app</a>.</p>
+      <p>If you have questions about this Privacy Policy or how we handle your data, email us at: <a href="mailto:jyuanschaber@gmail.com">jyuanschaber@gmail.com</a>.</p>
     </section>
 
     <footer>
